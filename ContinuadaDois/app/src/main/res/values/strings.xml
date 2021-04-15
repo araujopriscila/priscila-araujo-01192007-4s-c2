@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Avaliação continuada 2</string>
+    <string name="id_um">Cachorro 1</string>
+    <string name="id_dois">Cachorro 2</string>
+    <string name="comprar_cachorro">Comprar cachorros</string>
+    <string name="deu_ruim_um">DEU RUIM... </string>
+    <string name="deu_ruim_dois">Nenhum cachorro encontrado com os ids %1$d e %2$d</string>
+    <string name="auau_um">Cachorro 1:</string>
+    <string name="auau_dois">Cachorro 2:</string>
+    <string name="total_compra">Preço total de compra: R$</string>
+    <string name="nao_encontrado">Não encontrado</string>
+
+
+</resources>
